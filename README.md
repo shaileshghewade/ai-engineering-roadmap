@@ -80,3 +80,13 @@ I'll update these checkboxes as I complete each milestone.
 Learning in public. Building step by step. Growing with every project.
 
 ShaiNexa AI — Learn. Build. Evolve.
+
+## 🗺️ My AI Engineering Roadmap
+
+This roadmap represents my learning journey from Python fundamentals to building practical Generative AI applications.
+
+![My AI Engineering Roadmap](1_My-AI-Engineering-Roadmap.png)
+
+Follow my progress as I learn, build projects, and share what I discover.
+
+Connect with ShaiNexa AI:[Instagram](https://www.instagram.com/shainexa.ai/)
